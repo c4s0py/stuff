@@ -7,3 +7,6 @@ DiceRoller.py - a DND style dice roller utilising Tkinter GUI where you can inpu
 
 
 CardChecker.py - A validity credit card checker which uses the Luhn algorithm. Created as part of the computer science FreeCodeCamp course. 
+
+
+Expense_tracker.py - an expense tracker that utilises Lambda functions. Created as part of the computer science FreeCodeCamp course. 
