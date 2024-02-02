@@ -10,3 +10,7 @@ CardChecker.py - A validity credit card checker which uses the Luhn algorithm. C
 
 
 Expense_tracker.py - an expense tracker that utilises Lambda functions. Created as part of the computer science FreeCodeCamp course. 
+
+
+
+Case Converter.py -  a program that takes a string formatted in Camel Case or Pascal Case, then converts it into Snake Case. Created as part of the computer science FreeCodeCamp course. 
