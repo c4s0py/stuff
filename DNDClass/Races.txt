@@ -1,0 +1,9 @@
+Dwarf
+Half-orc
+Elf
+Halfling
+Human
+Dragonborn
+Gnome
+Half-elf
+Tiefling
