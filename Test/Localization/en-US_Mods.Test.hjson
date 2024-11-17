@@ -1,0 +1,67 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	RatioBlade: {
+		DisplayName: Ratio Blade
+		Tooltip:
+			'''
+			'A blade once used by a japanese salary-man'
+
+
+			"No matter what I'm clocking out by six."
+			'''
+	}
+
+	DullBlade: {
+		DisplayName: Dull Blade
+		Tooltip: "'A blade that's edge is too dull to be effective'"
+	}
+
+	CursedRags: {
+		DisplayName: Cursed Rags
+		Tooltip: "'A simple rag imbued with a technique'"
+	}
+
+	AwakenedBlade: {
+		DisplayName: Awakened Blade
+		Tooltip:
+			'''
+			'After extensive use, something has awoken within this blade'
+
+			"Overtime."
+
+			'''
+	}
+
+	Grade4UniformShirt: {
+		DisplayName: Grade4 Uniform Shirt
+		Tooltip:
+			'''
+			Increases your mana by 20
+
+			'The Uniform given to grade 4 sorcerers at Jujutsu High'
+
+
+			'''
+	}
+
+	Grade4UniformLegs: {
+		DisplayName: Grade4 Uniform Legs
+		Tooltip:
+			'''
+			Increases your mana by 20
+
+			'The Uniform given to grade 4 sorcerers at Jujutsu High'
+
+
+
+			'''
+	}
+}
+
+Buffs: {
+	Overtime: {
+		DisplayName: Overtime
+		Description: Damage is increased by 20
+	}
+}
