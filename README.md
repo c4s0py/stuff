@@ -39,7 +39,7 @@ squareroot - finds the square root of a number
 tower_of_hanoi - Tower Of Hanoi solver that finds the shortest amount of moves from point A > C
 
 
-UnitConverter - Unit of measure 
+UnitConverter - Unit of measure converter
 
 
 Website - A website made and currently maintained by me, hosting on neocities, using HTML/CSS/JS
