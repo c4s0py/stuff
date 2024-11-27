@@ -1,0 +1,3 @@
+displayName = test
+author = test
+version = 0.1

@@ -1,0 +1,33 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	sword: {
+		DisplayName: sword
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	Ocarina: {
+		DisplayName: Ocarina
+		Tooltip:
+			'''
+			An instrument used by the hero of time
+
+			Changes night to day and vice versa
+
+
+
+			'''
+	}
+
+	MasterSword: {
+		DisplayName: Master Sword
+		Tooltip: ""
+	}
+}
+
+Projectiles.MasterBeam.DisplayName: Master Beam
