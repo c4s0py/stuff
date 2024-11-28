@@ -51,7 +51,7 @@ DNDClass - Using python, made a DND class generator that appends the appropriate
 JujutsuKaisenMod - A rudimentary mod for terraria that explores creating custom armor, weapons and buffs, also used to learn about the fundamentals of C#.
 
 
-LegendOfZelda Mod - A rudimentary mod for terraria that explores creating custom weapon projectiles, modifying time of day and learning about the applications of Vector2 using x,y.  Written in C#
+LegendOfZelda Mod - A rudimentary mod for terraria that explores creating custom weapon projectiles, modifying time of day and learning about the applications of Vector math.  Written in C#
 
 
 
